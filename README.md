@@ -1,13 +1,6 @@
 <h1 align="center">Olá 👋, Eu souu Iago Bezerra Silva!</h1>
 <h3 align="center">Apaixonado por análise de dados no mundo digital.</h3>
 
-- 🔭 Atualmente sou sócio do [Armazém da Pizza](@armazemdapizza_)
-
-- Atualmente estou aprendendo **Python, SQL e Power BI**
-
-- 📫 Você me acha através do email **iagobezerraibs@gmail.com**
-
-- ⚡ Curiosidades **Estou fazendo migração de carreira para área de dados.**
 
 <h3 align="left">Conecte-me através:</h3>
 <p align="left">
